@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br>Hi! I’m Brix, a passionate and forward-thinking Computer Science student and developer focused on building practical, user-friendly, and scalable solutions. I’m constantly exploring new technologies and applying them through real-world projects to improve my skills and understanding of software development.<br><br>🧠 What I Do<br>💻 Full-stack web & mobile development (React Native, Node.js, Express, MongoDB)<br>📱 Mobile app development with a focus on UI/UX and user-centric design<br>🌐 RESTful API design and backend systems integration<br>🧪 Constantly learning through project-based development and open source<br><br>📈 Goals<br>🎯 Build and publish real-world applications that solve problems<br>🌍 Contribute to open-source and collaborate with like-minded developers<br>🚀 Expand knowledge in system design, cloud services, and DevOps<br>🧠 Master scalable architecture and performance optimization
+👋 About Me<br>Hi! I’m Brix, a passionate and forward-thinking Computer Science student and developer focused on building practical, user-friendly, and scalable solutions. I’m constantly exploring new technologies and applying them through real-world projects to improve my skills and understanding of software development.
 
 
 ## 🌐 Socials:
