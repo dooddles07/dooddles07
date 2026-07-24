@@ -80,8 +80,8 @@ Beeva — retail operations hub · VAMP — GoHighLevel and WhatsApp AI · Singa
 
 | | |
 |---|---|
-| **Languages** | JavaScript · TypeScript · Python · SQL |
-| **Frontend** | React · React Native · Next.js · Tailwind |
+| **Languages** | JavaScript · TypeScript · Python · SQL · HTML · CSS |
+| **Frontend** | React · React Native · Next.js · Tailwind · HTML5 · CSS3 |
 | **Backend** | Node · Express · Prisma · REST APIs · MVC |
 | **Data** | PostgreSQL · MongoDB · MySQL |
 | **Integrations** | GoHighLevel · Stripe · WhatsApp Business · Google Calendar · OAuth · JWT |
