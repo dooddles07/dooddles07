@@ -39,6 +39,8 @@ What I reach for most: backend architecture, REST APIs, third-party integrations
 ### The Lumina
 Property management platform. Three connected portals for residents, management, and guardhouse — facility booking, guest passes, defect reports, and live Stripe deposits that reflect instantly across every portal.
 
+![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=flat-square&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572b6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e)
 ![Node](https://img.shields.io/badge/-Node-0d1117?style=flat-square&logo=node.js&logoColor=6da55f)
 ![Express](https://img.shields.io/badge/-Express-0d1117?style=flat-square&logo=express&logoColor=ffffff)
@@ -53,6 +55,9 @@ Property management platform. Three connected portals for residents, management,
 ### StayFlow
 Residential community app. One place to run a community — facility and restaurant booking, digital guest passes, events, and announcements, with role-based logins for residents, staff, and management.
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e)
+![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572b6)
 ![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=61dafb)
 ![Node](https://img.shields.io/badge/-Node-0d1117?style=flat-square&logo=node.js&logoColor=6da55f)
 ![Express](https://img.shields.io/badge/-Express-0d1117?style=flat-square&logo=express&logoColor=ffffff)
@@ -72,6 +77,7 @@ Devotional web app. A daily verse, reading plans, and a prayer wall for a youth 
 ![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=61dafb)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
 
 [Live demo](https://cya-daily-verses-production.up.railway.app) &nbsp;·&nbsp; [Source](https://github.com/dooddles07/CYA-DV)
