@@ -30,14 +30,14 @@ What I reach for most: backend architecture, REST APIs, third-party integrations
 
 <br/>
 
-## Selected work
+## Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### The Lumina
-Property management platform. Three connected portals for residents, management, and guardhouse — facility booking, guest passes, defect reports, and live Stripe deposits that reflect instantly across every portal.
+Three-portal property platform with live Stripe deposits.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=flat-square&logo=html5&logoColor=e34f26)
 ![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572b6)
@@ -47,13 +47,13 @@ Property management platform. Three connected portals for residents, management,
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=4ea94b)
 ![Stripe](https://img.shields.io/badge/-Stripe-0d1117?style=flat-square&logo=stripe&logoColor=635bff)
 
-[Live demo](https://the-lumina-production.up.railway.app) &nbsp;·&nbsp; [Source](https://github.com/dooddles07/The-Lumina)
+[Live](https://the-lumina-production.up.railway.app) &nbsp;·&nbsp; [Source](https://github.com/dooddles07/The-Lumina)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### StayFlow
-Residential community app. One place to run a community — facility and restaurant booking, digital guest passes, events, and announcements, with role-based logins for residents, staff, and management.
+Community app — bookings, guest passes, role-based access.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e)
@@ -64,15 +64,13 @@ Residential community app. One place to run a community — facility and restaur
 ![Prisma](https://img.shields.io/badge/-Prisma-0d1117?style=flat-square&logo=prisma&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1)
 
-[Live demo](https://stayflow-production-bc16.up.railway.app) &nbsp;·&nbsp; [Source](https://github.com/dooddles07/StayFlow)
+[Live](https://stayflow-production-bc16.up.railway.app) &nbsp;·&nbsp; [Source](https://github.com/dooddles07/StayFlow)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### CYA Daily Verse
-Devotional web app. A daily verse, reading plans, and a prayer wall for a youth ministry, plus a mood finder that suggests Scripture by feeling — verses pulled live from public Bible APIs.
+Devotional app — daily verse, prayer wall, mood-based finder.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=61dafb)
@@ -80,19 +78,25 @@ Devotional web app. A daily verse, reading plans, and a prayer wall for a youth 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
 
-[Live demo](https://cya-daily-verses-production.up.railway.app) &nbsp;·&nbsp; [Source](https://github.com/dooddles07/CYA-DV)
-
-</td>
-<td width="50%" valign="top">
-
-### Client engagements
-Backend and integration work delivered for real, paying clients.
-
-Beeva — retail operations hub · VAMP — GoHighLevel and WhatsApp AI · Singapore Recreation Club and The Meridian — booking backends · Apexlynx — golf concierge with Stripe.
+[Live](https://cya-daily-verses-production.up.railway.app) &nbsp;·&nbsp; [Source](https://github.com/dooddles07/CYA-DV)
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+## Client work
+
+<sub>Digital Benefits Pte. Ltd. — Singapore, remote · 2026</sub>
+
+| Project | Scope | Stack |
+|---|---|---|
+| **Beeva** | Retail operations hub — WooCommerce, Lazada, and Shopee sync across office, driver, and warehouse portals with OR-Tools routing | React · Vite · Express · PostgreSQL · FastAPI |
+| **VAMP** | GoHighLevel automation and WhatsApp AI for a live-music agency — lineups, contracts, and payments | Next.js · TypeScript · Express · GHL |
+| **Singapore Recreation Club** | Booking backend — three JWT-secured booking types, QR check-in, GHL sync, and an AI member chatbot | Node · Express · MongoDB |
+| **The Meridian** | Condominium portal backend — QR guest passes, deposit payments, and maintenance requests | Node · Express · MongoDB · Stripe · GHL |
+| **Apexlynx** | Golf tee-time concierge for bank card programs — Stripe, Google Calendar, and automated WhatsApp and email flows | Node · MySQL · Stripe · GHL |
 
 <br/>
 
