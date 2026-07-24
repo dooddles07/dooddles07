@@ -91,7 +91,7 @@ Beeva — retail operations hub · VAMP — GoHighLevel and WhatsApp AI · Singa
 
 ## Background
 
-BS Computer Science, Cum Laude — Naga College Foundation, 2022 to 2026. Dean's Lister throughout. Certified seven times by Anthropic across the Claude API, Claude Code, agents, and subagents.
+BS Computer Science, Cum Laude — Naga College Foundation, 2022 to 2026. Dean's Lister throughout, with a CCS Start-Up Bootcamp (2024) and Idea2Startup Bootcamp (2023) along the way. Certified seven times by Anthropic: AI Fluency, Building with the Claude API, Claude 101, Claude Code 101, Claude Cowork, Subagents, and Agent Skills.
 
 <br/>
 
