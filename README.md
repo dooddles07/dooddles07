@@ -1,104 +1,75 @@
-<!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Brixsonn%20Romero&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Developer%20%C2%B7%20APIs%20%C2%B7%20CRM%20%26%20Workflow%20Automation&descAlignY=60&descSize=16" width="100%" />
+# Brixsonn Romero
 
-<a href="mailto:brixdodd07@gmail.com">
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Full--time%20%C2%B7%20Part--time%20%C2%B7%20Contract-22C55E?style=for-the-badge&labelColor=0D1117" alt="Open to Work" />
-</a>
-<img src="https://img.shields.io/badge/%F0%9F%93%8D%20Naga%20City-Philippines%20%C2%B7%20Remote%20Worldwide-6366F1?style=for-the-badge&labelColor=0D1117" alt="Location" />
+**Full Stack AI Developer** &nbsp;·&nbsp; Naga City, Philippines &nbsp;·&nbsp; Remote worldwide
 
-<br/><br/>
+AI writes the code with me. Computer science decides what ships.
 
-<a href="https://www.typingsvg.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=620&lines=AI+writes+the+code+with+me.;Computer+science+decides+what+ships.;Full+Stack+AI+Web+%26+App+Developer;CRM+%26+Workflow+Automation+(GoHighLevel);Backend+%26+API+Integration+Engineer" alt="Roles" />
-</a>
+<a href="https://web-portfolio-production-4815.up.railway.app">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/brixsonn-romero-0b18b9327">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:brixdodd07@gmail.com">brixdodd07@gmail.com</a>
+
+<img src="https://img.shields.io/badge/Open%20to%20work-Full--time%20·%20Part--time%20·%20Contract-1a7f37?labelColor=0d1117" alt="Open to work" />
+
+</div>
 
 <br/>
 
-<a href="https://web-portfolio-production-4815.up.railway.app"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/dooddles07"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/brixsonn-romero-0b18b9327"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:brixdodd07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+I build production web and mobile apps end to end, steered by a computer science
+foundation in algorithms, data structures, and system design. I direct Claude Code
+across the full stack — architecture, data models, APIs, UI — then verify every
+decision against what I learned earning a CS degree, cum laude. Five live client
+platforms shipped so far; the kind of work that used to need a team.
 
-</div>
+What I reach for most: backend architecture, REST APIs, third-party integrations,
+CRM and workflow automation, and conversational AI. I care about systems that hold
+up under real usage — clean data flow, solid API contracts, and QA from the start.
 
----
+<br/>
 
-## 👋 About
+### Selected work
 
-**Full Stack AI Developer** — I ship production web and mobile apps at the speed of AI, steered by a computer science foundation in algorithms, data structures, and system design.
+**The Lumina** — property management platform &nbsp;·&nbsp; [Live](https://the-lumina-production.up.railway.app) &nbsp;·&nbsp; [Code](https://github.com/dooddles07/The-Lumina)
+Three connected portals for residents, management, and guardhouse. Facility booking,
+guest passes, defect reports, and live Stripe deposits that reflect instantly across
+every portal. *JavaScript, Node, Express, MongoDB, Stripe.*
 
-- 🤖 **AI-native workflow** — I direct Claude Code across the full stack, then verify every decision against real engineering judgment
-- 🧩 **Full stack** — React / React Native / Next.js front ends on Node, Express, Prisma, and REST APIs built to scale
-- 🔌 **Integrations & automation** — GoHighLevel CRM, conversational AI, Stripe, WhatsApp Business, Google Calendar, webhooks, OAuth
-- 🛡️ **Secure by default** — JWT auth, OWASP-aware API design, real payment flows
-- 🎓 **BS Computer Science, Cum Laude** — Naga College Foundation (2022 – 2026) · 7× Anthropic certified
+**StayFlow** — residential community app &nbsp;·&nbsp; [Live](https://stayflow-production-bc16.up.railway.app) &nbsp;·&nbsp; [Code](https://github.com/dooddles07/StayFlow)
+One place to run a community: facility and restaurant booking, digital guest passes,
+events, and announcements, with role-based logins for residents, staff, and management.
+*React, Node, Express, Prisma, PostgreSQL.*
 
-> **5 live client platforms shipped.** I care about systems reliable under real usage — clean data flow, solid API contracts, QA baked in.
+**CYA Daily Verse** — devotional web app &nbsp;·&nbsp; [Live](https://cya-daily-verses-production.up.railway.app) &nbsp;·&nbsp; [Code](https://github.com/dooddles07/CYA-DV)
+A daily verse, reading plans, and a prayer wall for a youth ministry, plus a mood
+finder that suggests Scripture by feeling — verses pulled live from public Bible APIs.
+*Next.js, React, TypeScript, Tailwind.*
 
----
+Client engagements: Beeva (retail operations hub), VAMP (GoHighLevel and WhatsApp AI),
+Singapore Recreation Club and The Meridian (booking backends), Apexlynx (golf concierge
+with Stripe payments).
 
-## 🚀 Featured Projects
+<br/>
 
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| **The Lumina** | 3-portal property platform (resident / management / guardhouse) — facility booking, guest passes, defect reports, live Stripe deposits reflected instantly across portals | JS · Node · Express · MongoDB · Stripe | [Live](https://the-lumina-production.up.railway.app) · [Code](https://github.com/dooddles07/The-Lumina) |
-| **StayFlow** | All-in-one residential community app — facility & restaurant booking, digital guest passes, events, announcements, role-based logins | React · Node · Express · Prisma · PostgreSQL | [Live](https://stayflow-production-bc16.up.railway.app) · [Code](https://github.com/dooddles07/StayFlow) |
-| **CYA Daily Verse** | Devotional app — daily verse, reading plans, prayer wall, and a mood finder that suggests Scripture by feeling, pulled live from public Bible APIs | Next.js · React · TypeScript · Tailwind | [Live](https://cya-daily-verses-production.up.railway.app) · [Code](https://github.com/dooddles07/CYA-DV) |
+### Toolkit
 
-<div align="center"><sub>Client work: Beeva (ops hub), VAMP (GHL + WhatsApp AI), SRC & The Meridian (booking backends), Apexlynx (golf concierge + Stripe)</sub></div>
+Languages &nbsp;—&nbsp; JavaScript · TypeScript · Python · SQL
+Frontend &nbsp;—&nbsp; React · React Native · Next.js · Tailwind
+Backend &nbsp;—&nbsp; Node · Express · Prisma · REST APIs · MVC
+Data &nbsp;—&nbsp; PostgreSQL · MongoDB · MySQL
+Integrations &nbsp;—&nbsp; GoHighLevel · Stripe · WhatsApp Business · Google Calendar · OAuth · JWT
+Workflow &nbsp;—&nbsp; Claude Code · Git · Railway · Vercel · Postman
 
----
+<br/>
 
-## 🛠️ Tech Stack
+### Background
 
-**Languages**
+BS Computer Science, Cum Laude — Naga College Foundation, 2022 to 2026. Dean's Lister
+throughout. Certified seven times by Anthropic across the Claude API, Claude Code,
+agents, and subagents.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frontend & Backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-**Data · Integrations · Deploy**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-2A9D8F?style=for-the-badge&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dooddles07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dooddles07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's build something that runs on its own.
-
-📫 **brixdodd07@gmail.com** · 🌏 Remote · Available Worldwide
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%" />
-
+<sub>Open to full-time, part-time, or contract roles — remote, anywhere.</sub>
 </div>
