@@ -36,6 +36,7 @@ What I reach for most: backend architecture, REST APIs, third-party integrations
 |---|---|
 | **Backend Development** | APIs, data models, auth, business logic, scalable server architecture |
 | **Integrations** | Third-party APIs, payments, webhooks, CRM and platform sync |
+| **Database Management** | Schema design, migrations, optimization, backups, SQL and NoSQL |
 | **Full Stack AI Development** | End-to-end web and mobile apps with AI built in |
 | **Automations** | Workflows, CRM, pipelines, email and marketing, conversational AI, AI agents |
 | **Security Hardening** | Auth, access control, input validation, secure API and data practices |
