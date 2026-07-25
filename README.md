@@ -30,6 +30,20 @@ What I reach for most: backend architecture, REST APIs, third-party integrations
 
 <br/>
 
+## What I offer
+
+| Service | What it covers |
+|---|---|
+| **Backend Development** | APIs, data models, auth, business logic, scalable server architecture |
+| **Integrations** | Third-party APIs, payments, webhooks, CRM and platform sync |
+| **Full Stack AI Development** | End-to-end web and mobile apps with AI built in |
+| **Automations** | Workflows, CRM, pipelines, email and marketing, conversational AI, AI agents |
+| **Security Hardening** | Auth, access control, input validation, secure API and data practices |
+| **QA Testing** | Unit, integration, system, acceptance (UAT), black box, white box |
+| **Game Testing** | Functional, gameplay, and regression testing |
+
+<br/>
+
 ## Projects
 
 <table>
