@@ -108,13 +108,13 @@ Devotional app — daily verse, prayer wall, mood-based finder.
 
 <sub>Digital Benefits Pte. Ltd. — Singapore, remote · 2026</sub>
 
-| Project | Scope | Stack |
-|---|---|---|
-| **Beeva** | Retail operations hub — WooCommerce, Lazada, and Shopee sync across office, driver, and warehouse portals with OR-Tools routing | React · Vite · Express · PostgreSQL · FastAPI |
-| **VAMP** | GoHighLevel automation and WhatsApp AI for a live-music agency — lineups, contracts, and payments | Next.js · TypeScript · Express · GHL |
-| **Singapore Recreation Club** | Booking backend — three JWT-secured booking types, QR check-in, GHL sync, and an AI member chatbot | Node · Express · MongoDB |
-| **The Meridian** | Condominium portal backend — QR guest passes, deposit payments, and maintenance requests | Node · Express · MongoDB · Stripe · GHL |
-| **Apexlynx** | Golf tee-time concierge for bank card programs — Stripe, Google Calendar, and automated WhatsApp and email flows | Node · MySQL · Stripe · GHL |
+| Project | Description |
+|---|---|
+| **Beeva** | Retail operations hub that syncs WooCommerce, Lazada, and Shopee orders and runs optimized delivery routing across office, driver, and warehouse portals |
+| **VAMP** | Booking and automation platform for a live-music agency, handling lineups, contracts, payments, and WhatsApp AI follow-ups |
+| **Singapore Recreation Club** | Member booking backend with three booking types, QR check-in, CRM sync, and an AI member chatbot |
+| **The Meridian** | Condominium resident portal for QR guest passes, deposit payments, and maintenance requests |
+| **Apexlynx** | Golf tee-time concierge for bank card programs, with payments, calendar booking, and automated WhatsApp and email flows |
 
 <br/>
 
