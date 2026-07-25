@@ -24,9 +24,12 @@
 
 ## About
 
-I build production web and mobile apps end to end, steered by a computer science foundation in algorithms, data structures, and system design. I direct Claude Code across the full stack — architecture, data models, APIs, UI — then verify every decision against what I learned earning a CS degree, cum laude. Five live client platforms shipped so far; the kind of work that used to need a team.
-
-What I reach for most: backend architecture, REST APIs, third-party integrations, CRM and workflow automation, and conversational AI. I care about systems that hold up under real usage — clean data flow, solid API contracts, and QA from the start.
+- Build production web and mobile apps end to end, backed by a CS foundation in algorithms, data structures, and system design
+- Direct Claude Code across the full stack, verified against a CS degree, cum laude
+- Five live client platforms shipped so far
+- Strongest in backend, REST APIs, integrations, CRM and workflow automation, and conversational AI
+- Care about systems that hold up under real usage — clean data, solid API contracts, QA from the start
+- Always willing to learn new tools, stacks, and domains
 
 <br/>
 
