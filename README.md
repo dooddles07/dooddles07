@@ -110,11 +110,11 @@ Devotional app — daily verse, prayer wall, mood-based finder.
 
 | Project | Description |
 |---|---|
-| **Beeva** | Retail operations hub that syncs WooCommerce, Lazada, and Shopee orders and runs optimized delivery routing across office, driver, and warehouse portals |
-| **VAMP** | Booking and automation platform for a live-music agency, handling lineups, contracts, payments, and WhatsApp AI follow-ups |
-| **Singapore Recreation Club** | Member booking backend with three booking types, QR check-in, CRM sync, and an AI member chatbot |
-| **The Meridian** | Condominium resident portal for QR guest passes, deposit payments, and maintenance requests |
-| **Apexlynx** | Golf tee-time concierge for bank card programs, with payments, calendar booking, and automated WhatsApp and email flows |
+| **Beeva** | Centralized website that connects WooCommerce, Lazada, and Shopee into one dashboard. Pulls orders from all three, assigns deliveries, and shows a live driver map with optimized routing across office, driver, and warehouse portals |
+| **VAMP** | Booking website for a live-music agency where clients hire performers. Manages artist lineups, contracts, and payments, with automated WhatsApp AI that follows up leads and answers inquiries |
+| **Singapore Recreation Club** | Member portal for a private club where members book facilities. Handles three booking types, QR-code check-in at the venue, CRM sync, and an AI chatbot that answers member questions |
+| **The Meridian** | Resident portal for a condominium. Residents register guests and get QR guest passes for gate entry, pay deposits online, and file maintenance requests the admin can track |
+| **Apexlynx** | Golf tee-time concierge for bank card programs. Cardholders book tee times as a perk, pay through the site, sync bookings to their calendar, and get automated WhatsApp and email confirmations |
 
 <br/>
 
