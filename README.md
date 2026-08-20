@@ -6,8 +6,6 @@
 
 <br/>
 
-<img alt="Contributions — live from GitHub" src="assets/section-contributions.png" width="100%" />
-
 <div align="center">
 
 <img alt="Contribution activity graph for dooddles07" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dooddles07&hide_border=true&area=true&bg_color=08080A&color=EDEAE4&line=EDEAE4&point=FFFFFF&title_color=F4F4F5&custom_title=Contribution%20activity" />
